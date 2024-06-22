@@ -1,0 +1,11 @@
+{
+  "loggingParentsOnly": true,
+  "name": "workflow_log",
+  "workflowToLog": [],
+  "intervalInSeconds": "30",
+  "executingPeriodically": false,
+  "pipelineFilename": "${PROJECT_HOME}/src/main/workflow-log.hpl",
+  "executingAtEnd": true,
+  "enabled": true,
+  "executingAtStart": true
+}

@@ -1,0 +1,23 @@
+{
+  "variables" : [ {
+    "name" : "PG_HOST",
+    "value" : "localhost",
+    "description" : ""
+  }, {
+    "name" : "PG_PORT",
+    "value" : "5432",
+    "description" : ""
+  }, {
+    "name" : "PG_DBNM",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "PG_USER",
+    "value" : "postgres",
+    "description" : ""
+  }, {
+    "name" : "PG_PASS",
+    "value" : "postgres",
+    "description" : ""
+  } ]
+}
